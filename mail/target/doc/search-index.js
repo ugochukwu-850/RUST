@@ -1,0 +1,5 @@
+var searchIndex = JSON.parse('{\
+"mail":{"doc":"","t":"NDNELLLLLLLLLLLLLLMLLLLLLL","n":["Blue","Inventory","Red","ShirtColor","borrow","borrow","borrow_mut","borrow_mut","clone","clone_into","eq","fmt","from","from","giveaway","into","into","most_stocked","shirts","to_owned","try_from","try_from","try_into","try_into","type_id","type_id"],"q":["mail","","","","","","","","","","","","","","","","","","","","","","","","",""],"d":["","","","","","","","","","","","","Returns the argument unchanged.","Returns the argument unchanged.","","Calls <code>U::from(self)</code>.","Calls <code>U::from(self)</code>.","","","","","","","","",""],"i":[1,0,1,0,5,1,5,1,1,1,1,1,5,1,5,5,1,5,5,1,5,1,5,1,5,1],"f":[0,0,0,0,[[]],[[]],[[]],[[]],[1,1],[[]],[[1,1],2],[[1,3],4],[[]],[[]],[[5,[6,[1]]],1],[[]],[[]],[5,1],0,[[]],[[],7],[[],7],[[],7],[[],7],[[],8],[[],8]],"p":[[4,"ShirtColor"],[15,"bool"],[3,"Formatter"],[6,"Result"],[3,"Inventory"],[4,"Option"],[4,"Result"],[3,"TypeId"]]}\
+}');
+if (typeof window !== 'undefined' && window.initSearch) {window.initSearch(searchIndex)};
+if (typeof exports !== 'undefined') {exports.searchIndex = searchIndex};
